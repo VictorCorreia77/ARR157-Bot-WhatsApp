@@ -1,27 +1,4 @@
 Comandos:
-pkg update && pkg upgrade
-apt-get update
-apt-get upgrade
-pkg install git
-pkg install bash
-git clone https://github.com/ArugaZ/whatsapp-bot.git
-cd whatsapp-bot
-pkg install nodejs
-bash install.sh
-node index.js
-npm install 
-npm install gify-cli -g
-npm start
-
-
-
-
-https://github.com/botjdfg/bot157-v3
-cd bot157-v3
-
-
-
-Comandos:
 
 pkg update && pkg upgrade
 
